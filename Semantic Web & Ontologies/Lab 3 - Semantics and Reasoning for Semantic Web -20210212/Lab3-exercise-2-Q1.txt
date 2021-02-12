@@ -1,0 +1,34 @@
+Facts v1 : 
+
+MuseumName(m1,“musee du LOUVRE”);
+Located(m1,c1);
+Contains(m1,p1);
+Contains(m1, p2);
+CityName(c1, “Ville de paris”);
+PaintingName(p1, “Abricotiers en fleurs”);
+PaintingName(p2, “Joconde’);
+MuseumName(m2,“LE LOUVRE”);
+Contains(m2,p2);
+Located(m2,c2);
+CityName(c2,”Paris”);
+PaintingName(p2,“La Joconde”);
+
+Answer for question 1 : 
+
+Facts V2 (Question 1 -- application of RDFS inference rules)
+
+Located rdfs:domain Museum 
+--> Museum(m1), Museum(m2) 
+
+Located rdfs:range City
+--> City(c1), City(c2)
+
+Museum rdfs:subclassOf CulturalPlace 
+--> CulturalPlace(m1),  CulturalPlace(m2)
+
+Contains rdfs:domain CulturalPlace 
+--> CulturalPlace(m1),  CulturalPlace(m2)
+
+Contains rdfs:range Painting 
+--> Painting(p1), Painting(P2)
+.... 

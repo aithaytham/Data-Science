@@ -1,0 +1,165 @@
+ ###### add SHACL vocabulary ###### 
+@prefix dash:   <http://datashapes.org/dash#>   .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/>    .
+@prefix sh: <http://www.w3.org/ns/shacl#>   .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+schema:InternshipShape
+    a sh:NodeShape, rdfs: Class;
+    sh:targetClass schema:Internship;
+    sh:property[
+        sh:path schema:duration_intership;
+        sh:minInclusive 4;
+        sh:maxInclusive 6;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:integer;
+        ];
+    sh:property[
+        sh:path schema job_title;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string;
+        ];
+    sh:property[
+        sh:path schema:localisation;
+        sh:minCount 1;
+        sh:datatype xsd:string;
+        ];
+    sh:property[
+        sh:path schema:subject;
+        sh:minCount 1;
+        sh:datatype xsd:string;
+        ];
+    sh:property[
+        sh:path schema:company;
+        sh:datatype xsd:string;
+        ];
+    sh:property[
+        sh:path schema:lab;
+        sh:datatype xsd:string;
+        ].
+#Bad
+ex:Intern1
+    a schema Internship;
+    schema:duration_intership 24;
+    schema:title "Data Scientist";
+    schema:localisation: "Paris";
+    schema:localisation: "Data";
+    schema:lab "Inria ".
+#Correction 
+ex:Intern1
+    a schema Internship;
+    schema:duration_intership 6;
+    schema:title "Data Scientist";
+    schema:localisation: "Paris";
+    schema:localisation: "Data";
+    schema:lab "Inria ".
+
+
+schema:PersonShape
+    a sh:NodeShape;
+    sh:TargetClass schema:Person;
+    sh:property[
+        sh:path schema:lastName;
+        sh:minCount 1;
+        sh:datatype xsd:string;
+        ];
+    sh:property[
+        sh:path schema:givenName;
+        sh:minCount 1;
+        sh:datatype xsd:string;
+        ];
+    sh:property[
+        sh:path schema:givenName;
+        sh:dijoint schema:lastName;
+        ];
+    sh:property[
+        sh:path schema:givenName;
+        sh:equals foaf:firstName;
+        ].
+schema:StudentShape
+    a sh:NodeShape;
+    sh:TargetClass schema:Student;
+    sh:property[
+        sh:path schema:Student_id;
+        sh:minCount 1;
+        sh:maxCount1;
+        sh:datatype xsd:integer;
+        ];
+    sh:property[
+        sh:path schema:total_grade;
+        sh:minInclusive 0;
+        sh:maxInclusive 20;
+        sh:datatype xsd:double;
+        ].
+#Bad
+ex:Etu1
+     a schema: Student;
+     ex:Etu1 rdfs:subClassOf ex:Person
+     schema: givenName "Mamoun"
+     schema: lastName "Benchekroun"
+     schema: Student_id A10698
+     schema: total_grade "dix huit et demi"
+
+#Correction
+ex:Etu1
+     a schema: Student;
+     ex:Etu1 rdfs:subClassOf ex:Person
+     schema: givenName "Mamoun"
+     schema: lastName "Benchekroun"
+     schema: Student_id 10698
+     schema: total_grade 18,5
+
+
+schema:scienceAdvisorShape
+    a sh:NodeShape;
+    sh:TargetClass schema:scienceAdvisor;
+    sh:property[
+        sh:path schema : topic;
+        sh:datatype xsd:string;
+        minCount : 1;
+        maxCount : 3;
+        ];
+        sh:property[
+        sh:path schema : university;
+        sh:node schema : UniversityShape;
+        ].
+
+schema:UniversityShape
+    a sh:NodeShape;
+    sh:TargetClass schema:University;
+    sh:property[
+        sh:path schema : Name;
+        sh:datatype xsd:string;
+        minCount : 1;
+        maxCount : 1;
+        ].
+
+#Bad
+ex:UN1
+     a schema: UniversityShape;
+     schema: Name "UPSUD"
+
+ex:SA1
+     a schema: scienceAdvisorShape;
+     ex:SA1 rdfs:subClassOf ex:Person
+     schema: givenName "Silvain"
+     schema: lastName "Gaillard"
+     schema: topic 
+     schema: university "UPSUD"
+
+#Correction
+ex:UN1
+     a schema: UniversityShape;
+     schema: Name "UPSUD"
+
+ex:SA1
+     a schema: scienceAdvisorShape;
+     ex:SA1 rdfs:subClassOf ex:Person
+     schema: givenName "Silvain"
+     schema: lastName "Gaillard"
+     schema: topic "Machine Learning"
+     schema: university ex:UN1

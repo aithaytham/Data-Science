@@ -1,0 +1,41 @@
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:135): ID: ontBig1
+Var: ?x
+Prefixes: {rdf=http://www.w3.org/1999/02/22-rdf-syntax-ns#, owl=http://www.w3.org/2002/07/owl/#, imbt=http://oaei.ontologymatching.org/2010/IIMBTBOX/, rdfs=http://www.w3.org/2000/01/rdf-schema#}
+Endpoint: C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\Release_Examples\ontBig.nt
+Graph: null
+Restrictions: []
+Properties: [imbt:name]
+Functions: {imbt:name={imbt:name=}}
+Page size: 5000
+Type: n-triples
+
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:136): ID: output
+Var: ?y
+Prefixes: {rdf=http://www.w3.org/1999/02/22-rdf-syntax-ns#, owl=http://www.w3.org/2002/07/owl/#, imbt=http://oaei.ontologymatching.org/2010/IIMBTBOX/, rdfs=http://www.w3.org/2000/01/rdf-schema#}
+Endpoint: C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\Release_Examples\output_file.nt
+Graph: null
+Restrictions: []
+Properties: [imbt:name]
+Functions: {imbt:name={imbt:name=}}
+Page size: 5000
+Type: n-triples
+
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:141): Loading source data ...
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:232): Checking for file C:\Users\couco\Downloads\PROJECT_DATA_SCIENCE-master\PROJECT_DATA_SCIENCE-master\Keys-selection\cache\-603319395.ser
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:235): Found cached data. Loading data from file C:\Users\couco\Downloads\PROJECT_DATA_SCIENCE-master\PROJECT_DATA_SCIENCE-master\Keys-selection\cache\-603319395.ser
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:241): Cached data loaded successfully from file C:\Users\couco\Downloads\PROJECT_DATA_SCIENCE-master\PROJECT_DATA_SCIENCE-master\Keys-selection\cache\-603319395.ser
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:242): Size = 1363
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:146): Loading target data ...
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:232): Checking for file C:\Users\couco\Downloads\PROJECT_DATA_SCIENCE-master\PROJECT_DATA_SCIENCE-master\Keys-selection\cache\1583074885.ser
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:235): Found cached data. Loading data from file C:\Users\couco\Downloads\PROJECT_DATA_SCIENCE-master\PROJECT_DATA_SCIENCE-master\Keys-selection\cache\1583074885.ser
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:241): Cached data loaded successfully from file C:\Users\couco\Downloads\PROJECT_DATA_SCIENCE-master\PROJECT_DATA_SCIENCE-master\Keys-selection\cache\1583074885.ser
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:242): Size = 1233
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:159): Getting links ...
+26.01.2021 10:26:02 INFO  [main] de.uni_leipzig.simba.mapper.atomic.JaroMapper.getMapping(JaroMapper.java:25): Running JaroMapper
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:162): Got links in 684ms.
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.io.SerializerFactory.getSerializer(SerializerFactory.java:22): Getting serializer with name TTL
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:172): Using TtlSerializer to serialize
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:191): Returned 1289 links above acceptance threshold.
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:192): Returned 3912 links to review.
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:199): Mapping carried out in 1.262 seconds
+26.01.2021 10:26:03 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:200): Done.

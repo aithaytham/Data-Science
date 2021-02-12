@@ -1,0 +1,81 @@
+Solution for Lab 3 -- : exercice on Reasoning on RDFS and OWL ontology
+----------------------------------------------------------------------
+
+Facts v1 : 
+
+MuseumName(m1,“musee du LOUVRE”);
+Located(m1,c1);
+Contains(m1,p1);
+Contains(m1, p2);
+CityName(c1, “Ville de paris”);
+PaintingName(p1, “Abricotiers en fleurs”);
+PaintingName(p2, “Joconde’);
+MuseumName(m2,“LE LOUVRE”);
+Contains(m2,p3);
+Located(m2,c2);
+CityName(c2,”Paris”);
+PaintingName(p3,“La Joconde”);
+
+------------------------
+Answer for question 1 : 
+------------------------
+Facts V2 (Question 1 -- application of RDFS inference rules)
+
+Located rdfs:domain Museum 
+--> Museum(m1), Museum(m2) 
+
+Located rdfs:range City
+--> City(c1), City(c2)
+
+Museum rdfs:subclassOf CulturalPlace 
+--> CulturalPlace(m1),  CulturalPlace(m2)
+
+Contains rdfs:domain CulturalPlace 
+--> CulturalPlace(m1),  CulturalPlace(m2)
+
+Contains rdfs:range Painting 
+--> Painting(p1), Painting(P2)
+
+------------------------
+Answer for question 2 : 
+------------------------
+
+owl:diffrentFrom(m1, c1)
+owl:diffrentFrom(m1, c2)
+owl:diffrentFrom(m1, p1)
+owl:diffrentFrom(m1, p2)
+owl:diffrentFrom(m1, p3)
+
+owl:diffrentFrom(m2, c1)
+owl:diffrentFrom(m2, c2)
+owl:diffrentFrom(m2, p1)
+owl:diffrentFrom(m2, p2)
+owl:diffrentFrom(m2, p3)
+
+owl:diffrentFrom(c1, p1)
+owl:diffrentFrom(c1, p2)
+owl:diffrentFrom(c1, p3)
+
+owl:diffrentFrom(c2, p1)
+owl:diffrentFrom(c2, p2)
+owl:diffrentFrom(c2, p3)
+------------------------
+Answer for question 3 : 
+------------------------
+
+From R2 and the fact  (‘Joconde’ = ‘ La Joconde’), we infer : 
+
+owl:sameAs(p1,p3)
+
+Then, from the previous fact and the semantics of owl:inversefunctionalProperty(contains), we infer,
+owl:sameAs(m1, m2) 
+
+Then, from the previous fact and the semantics of owl:functionalProperty(MuseumName), we infer : 
+(“musee du LOUVRE" = "LE LOUVRE") that can be represented by equalIgnoreCase(“musee du LOUVRE" = "LE LOUVRE"). 
+
+
+Then, from the previous fact and the semantics of owl:functionalProperty(Located), we infer:
+owl:sameAs(c1,c2) 
+
+Then, from the previous fact and the semantics of owl:functionalProperty(CityName), we infer : 
+(“Ville de paris" = "PARIS") that can be represented by swrl:equalIgnoreCase(“Ville de paris" = "PARIS"). 

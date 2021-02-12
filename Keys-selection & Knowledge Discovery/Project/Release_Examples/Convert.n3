@@ -1,0 +1,3180 @@
+@prefix ns0: <http://semex.cs.washington.edu/ontology#> .
+
+<semex:iid:100000000>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000001>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000002>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000003>
+  ns0:name "p. auer" ;
+  a ns0:Person .
+
+<semex:iid:100000004>
+  a ns0:Conference ;
+  ns0:confName "in proc. 36th annual symposium on foundations of computer science" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1995" ;
+  ns0:city "los alamitos, ca" .
+
+<semex:iid:100000005>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000004> ;
+  ns0:year "1995" ;
+  ns0:pageFrom "322" ;
+  ns0:pageTo "331" ;
+  ns0:title "gambling in a rigged casino: the adversarial multi-armed bandit problem" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000000>, <semex:iid:100000001>, <semex:iid:100000002>, <semex:iid:100000003> .
+
+<semex:iid:100000006>
+  ns0:name "ron kohavi wolpert,  d. h." ;
+  a ns0:Person .
+
+<semex:iid:100000007>
+  ns0:name "eric bauer" ;
+  a ns0:Person .
+
+<semex:iid:100000008>
+  a ns0:Conference ;
+  ns0:confName "neural networks" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1992" .
+
+<semex:iid:100000009>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000008> ;
+  ns0:year "1992" ;
+  ns0:title "stacked generalization" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000006>, <semex:iid:100000007> .
+
+<semex:iid:100000010>
+  ns0:name "richard j. lipton." ;
+  a ns0:Person .
+
+<semex:iid:100000011>
+  ns0:name "m. j. kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000012>
+  ns0:name "m. furst" ;
+  a ns0:Person .
+
+<semex:iid:100000013>
+  ns0:name "a. blum" ;
+  a ns0:Person .
+
+<semex:iid:100000014>
+  a ns0:Conference ;
+  ns0:confName "in pre-proceedings of crypto" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000015>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000014> ;
+  ns0:year "1993" ;
+  ns0:title "cryptographic primitives based on hard learning problems" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000010>, <semex:iid:100000011>, <semex:iid:100000012>, <semex:iid:100000013> .
+
+<semex:iid:100000016>
+  ns0:name "richard j. lipton." ;
+  a ns0:Person .
+
+<semex:iid:100000017>
+  ns0:name "michael kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000018>
+  ns0:name "merrick furst" ;
+  a ns0:Person .
+
+<semex:iid:100000019>
+  ns0:name "avrim blum" ;
+  a ns0:Person .
+
+<semex:iid:100000020>
+  a ns0:Conference ;
+  ns0:confName "in pre-proceedings of crypto" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000021>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000020> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "24.1" ;
+  ns0:pageTo "24.10" ;
+  ns0:title "cryptographic primitives based on hard learning problems" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000016>, <semex:iid:100000017>, <semex:iid:100000018>, <semex:iid:100000019> .
+
+<semex:iid:100000022>
+  ns0:name "richard j. lipton." ;
+  a ns0:Person .
+
+<semex:iid:100000023>
+  ns0:name "michael kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000024>
+  ns0:name "merrick furst" ;
+  a ns0:Person .
+
+<semex:iid:100000025>
+  ns0:name "avrim blum" ;
+  a ns0:Person .
+
+<semex:iid:100000026>
+  a ns0:Conference ;
+  ns0:confName "proc. crypto" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000027>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000026> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "278" ;
+  ns0:pageTo "291" ;
+  ns0:title "cryptographic primitives based on hard learning problems" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000022>, <semex:iid:100000023>, <semex:iid:100000024>, <semex:iid:100000025> .
+
+<semex:iid:100000028>
+  ns0:name "r. lipton." ;
+  a ns0:Person .
+
+<semex:iid:100000029>
+  ns0:name "m. kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000030>
+  ns0:name "m. furst" ;
+  a ns0:Person .
+
+<semex:iid:100000031>
+  ns0:name "a. blum" ;
+  a ns0:Person .
+
+<semex:iid:100000032>
+  a ns0:Conference ;
+  ns0:confName "crypto" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000033>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000032> ;
+  ns0:year "1993" ;
+  ns0:title "cryptographic primitives based on hard learning problems" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000028>, <semex:iid:100000029>, <semex:iid:100000030>, <semex:iid:100000031> .
+
+<semex:iid:100000034>
+  ns0:name "rudich,  s." ;
+  a ns0:Person .
+
+<semex:iid:100000035>
+  ns0:name "mansour,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000036>
+  ns0:name "kearns,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000037>
+  ns0:name "jackson,  j." ;
+  a ns0:Person .
+
+<semex:iid:100000038>
+  ns0:name "furst,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000039>
+  ns0:name "blum,  a." ;
+  a ns0:Person .
+
+<semex:iid:100000040>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 26th annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000041>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000040> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "253" ;
+  ns0:pageTo "262" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000034>, <semex:iid:100000035>, <semex:iid:100000036>, <semex:iid:100000037>, <semex:iid:100000038>, <semex:iid:100000039> .
+
+<semex:iid:100000042>
+  ns0:name "rudich,  s." ;
+  a ns0:Person .
+
+<semex:iid:100000043>
+  ns0:name "mansour,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000044>
+  ns0:name "kearns,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000045>
+  ns0:name "jackson,  j." ;
+  a ns0:Person .
+
+<semex:iid:100000046>
+  ns0:name "furst,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000047>
+  ns0:name "blum,  a." ;
+  a ns0:Person .
+
+<semex:iid:100000048>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-sixth annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" ;
+  ns0:city "montreal, canada" .
+
+<semex:iid:100000049>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000048> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "253" ;
+  ns0:pageTo "262" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000042>, <semex:iid:100000043>, <semex:iid:100000044>, <semex:iid:100000045>, <semex:iid:100000046>, <semex:iid:100000047> .
+
+<semex:iid:100000050>
+  ns0:name "rudich s." ;
+  a ns0:Person .
+
+<semex:iid:100000051>
+  ns0:name "mansour y." ;
+  a ns0:Person .
+
+<semex:iid:100000052>
+  ns0:name "kearns m." ;
+  a ns0:Person .
+
+<semex:iid:100000053>
+  ns0:name "jackson j." ;
+  a ns0:Person .
+
+<semex:iid:100000054>
+  ns0:name "furst m." ;
+  a ns0:Person .
+
+<semex:iid:100000055>
+  ns0:name "blum a." ;
+  a ns0:Person .
+
+<semex:iid:100000056>
+  a ns0:Conference ;
+  ns0:confName "in proc. 26th annu. acm sympos. theory comput" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" ;
+  ns0:city "new york, ny" .
+
+<semex:iid:100000057>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000056> ;
+  ns0:year "1994" ;
+  ns0:title "weakly learning dnf 10 and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000050>, <semex:iid:100000051>, <semex:iid:100000052>, <semex:iid:100000053>, <semex:iid:100000054>, <semex:iid:100000055> .
+
+<semex:iid:100000058>
+  ns0:name "s. rudich." ;
+  a ns0:Person .
+
+<semex:iid:100000059>
+  ns0:name "y. mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000060>
+  ns0:name "m. kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000061>
+  ns0:name "j. jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000062>
+  ns0:name "m. furst" ;
+  a ns0:Person .
+
+<semex:iid:100000063>
+  ns0:name "a. blum" ;
+  a ns0:Person .
+
+<semex:iid:100000064>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 26th acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" ;
+  ns0:city "new york, ny" .
+
+<semex:iid:100000065>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000064> ;
+  ns0:year "1994" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000058>, <semex:iid:100000059>, <semex:iid:100000060>, <semex:iid:100000061>, <semex:iid:100000062>, <semex:iid:100000063> .
+
+<semex:iid:100000066>
+  ns0:name "steven rudich." ;
+  a ns0:Person .
+
+<semex:iid:100000067>
+  ns0:name "yishay mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000068>
+  ns0:name "michael kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000069>
+  ns0:name "jeffrey jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000070>
+  ns0:name "merrick furst" ;
+  a ns0:Person .
+
+<semex:iid:100000071>
+  ns0:name "avrim blum" ;
+  a ns0:Person .
+
+<semex:iid:100000072>
+  a ns0:Conference ;
+  ns0:confName "in t he 26 th annual acm symposium on t heory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000073>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000072> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "253" ;
+  ns0:pageTo "262" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000066>, <semex:iid:100000067>, <semex:iid:100000068>, <semex:iid:100000069>, <semex:iid:100000070>, <semex:iid:100000071> .
+
+<semex:iid:100000074>
+  ns0:name "steven rudich." ;
+  a ns0:Person .
+
+<semex:iid:100000075>
+  ns0:name "yishay mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000076>
+  ns0:name "michael kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000077>
+  ns0:name "jeffery jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000078>
+  ns0:name "merrick furst" ;
+  a ns0:Person .
+
+<semex:iid:100000079>
+  ns0:name "avrim blum" ;
+  a ns0:Person .
+
+<semex:iid:100000080>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 26 th annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000081>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000080> ;
+  ns0:year "1994" ;
+  ns0:title "weakly 8 learning dnf and characterizing statistical query learn-ing using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000074>, <semex:iid:100000075>, <semex:iid:100000076>, <semex:iid:100000077>, <semex:iid:100000078>, <semex:iid:100000079> .
+
+<semex:iid:100000082>
+  ns0:name "steven rudich." ;
+  a ns0:Person .
+
+<semex:iid:100000083>
+  ns0:name "yishay mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000084>
+  ns0:name "michael kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000085>
+  ns0:name "jeffery jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000086>
+  ns0:name "merrick furst" ;
+  a ns0:Person .
+
+<semex:iid:100000087>
+  ns0:name "avrim blum" ;
+  a ns0:Person .
+
+<semex:iid:100000088>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 26 th annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000089>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000088> ;
+  ns0:year "1994" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000082>, <semex:iid:100000083>, <semex:iid:100000084>, <semex:iid:100000085>, <semex:iid:100000086>, <semex:iid:100000087> .
+
+<semex:iid:100000090>
+  ns0:name "steven rudich." ;
+  a ns0:Person .
+
+<semex:iid:100000091>
+  ns0:name "yishay mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000092>
+  ns0:name "michael kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000093>
+  ns0:name "jeffery jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000094>
+  ns0:name "merrick furst" ;
+  a ns0:Person .
+
+<semex:iid:100000095>
+  ns0:name "avrim blum" ;
+  a ns0:Person .
+
+<semex:iid:100000096>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-sixth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000097>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000096> ;
+  ns0:year "1994" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000090>, <semex:iid:100000091>, <semex:iid:100000092>, <semex:iid:100000093>, <semex:iid:100000094>, <semex:iid:100000095> .
+
+<semex:iid:100000098>
+  ns0:name "s. rudich." ;
+  a ns0:Person .
+
+<semex:iid:100000099>
+  ns0:name "y. mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000100>
+  ns0:name "m. kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000101>
+  ns0:name "j. jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000102>
+  ns0:name "m. furst" ;
+  a ns0:Person .
+
+<semex:iid:100000103>
+  ns0:name "a. blum" ;
+  a ns0:Person .
+
+<semex:iid:100000104>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of twenty-sixth acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000105>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000104> ;
+  ns0:year "1994" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000098>, <semex:iid:100000099>, <semex:iid:100000100>, <semex:iid:100000101>, <semex:iid:100000102>, <semex:iid:100000103> .
+
+<semex:iid:100000106>
+  ns0:name "s. rudich" ;
+  a ns0:Person .
+
+<semex:iid:100000107>
+  ns0:name "y. mansour" ;
+  a ns0:Person .
+
+<semex:iid:100000108>
+  ns0:name "m. kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000109>
+  ns0:name "j. jackson" ;
+  a ns0:Person .
+
+<semex:iid:100000110>
+  ns0:name "m. furst" ;
+  a ns0:Person .
+
+<semex:iid:100000111>
+  ns0:name "blum,  a." ;
+  a ns0:Person .
+
+<semex:iid:100000112>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 26th annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000113>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000112> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "253" ;
+  ns0:pageTo "62" ;
+  ns0:title "weakly learning dnf and characterizing statistical query learning using fourier analysis" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000106>, <semex:iid:100000107>, <semex:iid:100000108>, <semex:iid:100000109>, <semex:iid:100000110>, <semex:iid:100000111> .
+
+<semex:iid:100000114>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000115>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000116>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000117>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000118>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000119>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000120>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000121>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000120> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000114>, <semex:iid:100000115>, <semex:iid:100000116>, <semex:iid:100000117>, <semex:iid:100000118>, <semex:iid:100000119> .
+
+<semex:iid:100000122>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000123>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000124>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000125>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000126>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000127>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000128>
+  a ns0:Conference ;
+  ns0:confName "in annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000129>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000128> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000122>, <semex:iid:100000123>, <semex:iid:100000124>, <semex:iid:100000125>, <semex:iid:100000126>, <semex:iid:100000127> .
+
+<semex:iid:100000130>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000131>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000132>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000133>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000134>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000135>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000136>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000137>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000136> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000130>, <semex:iid:100000131>, <semex:iid:100000132>, <semex:iid:100000133>, <semex:iid:100000134>, <semex:iid:100000135> .
+
+<semex:iid:100000138>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000139>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000140>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000141>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000142>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000143>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000144>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000145>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000144> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000138>, <semex:iid:100000139>, <semex:iid:100000140>, <semex:iid:100000141>, <semex:iid:100000142>, <semex:iid:100000143> .
+
+<semex:iid:100000146>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000147>
+  ns0:name "r. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000148>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000149>
+  ns0:name "d. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000150>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000151>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000152>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000153>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000152> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000146>, <semex:iid:100000147>, <semex:iid:100000148>, <semex:iid:100000149>, <semex:iid:100000150>, <semex:iid:100000151> .
+
+<semex:iid:100000154>
+  ns0:name "warmuth,  m. k." ;
+  a ns0:Person .
+
+<semex:iid:100000155>
+  ns0:name "schapire,  r. e." ;
+  a ns0:Person .
+
+<semex:iid:100000156>
+  ns0:name "haussler,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000157>
+  ns0:name "helmbold,  d. p." ;
+  a ns0:Person .
+
+<semex:iid:100000158>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000159>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000160>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the annual acm symposium on the theory of computing (pp" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000161>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000160> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000154>, <semex:iid:100000155>, <semex:iid:100000156>, <semex:iid:100000157>, <semex:iid:100000158>, <semex:iid:100000159> .
+
+<semex:iid:100000162>
+  ns0:name "haussler,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000163>
+  ns0:name "helmbold,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000164>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000165>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000166>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000167>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000166> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000162>, <semex:iid:100000163>, <semex:iid:100000164>, <semex:iid:100000165> .
+
+<semex:iid:100000168>
+  ns0:name "warmuth,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000169>
+  ns0:name "schapire,  r." ;
+  a ns0:Person .
+
+<semex:iid:100000170>
+  ns0:name "haussler,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000171>
+  ns0:name "helmbold,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000172>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000173>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000174>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the annual acm symp. on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000175>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000174> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000168>, <semex:iid:100000169>, <semex:iid:100000170>, <semex:iid:100000171>, <semex:iid:100000172>, <semex:iid:100000173> .
+
+<semex:iid:100000176>
+  ns0:name "r. e. schapire and m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000177>
+  ns0:name "d. haus-sler" ;
+  a ns0:Person .
+
+<semex:iid:100000178>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000179>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000180>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000181>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the annual acm symp. on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1995" ;
+  ns0:city "pages" .
+
+<semex:iid:100000182>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000181> ;
+  ns0:year "1995" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000176>, <semex:iid:100000177>, <semex:iid:100000178>, <semex:iid:100000179>, <semex:iid:100000180> .
+
+<semex:iid:100000183>
+  ns0:name "m. k. war-muth." ;
+  a ns0:Person .
+
+<semex:iid:100000184>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000185>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000186>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000187>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000188>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000189>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 24th annual acm symposium on theory of computing (stoc" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000190>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000189> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000183>, <semex:iid:100000184>, <semex:iid:100000185>, <semex:iid:100000186>, <semex:iid:100000187>, <semex:iid:100000188> .
+
+<semex:iid:100000191>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000192>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000193>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000194>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000195>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000196>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000197>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 24th annual acm symposium on theory of computing (stoc" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000198>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000197> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000191>, <semex:iid:100000192>, <semex:iid:100000193>, <semex:iid:100000194>, <semex:iid:100000195>, <semex:iid:100000196> .
+
+<semex:iid:100000199>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000200>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000201>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000202>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000203>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000204>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000205>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 25th annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000206>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000205> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000199>, <semex:iid:100000200>, <semex:iid:100000201>, <semex:iid:100000202>, <semex:iid:100000203>, <semex:iid:100000204> .
+
+<semex:iid:100000207>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000208>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000209>
+  ns0:name "d. haus-sler" ;
+  a ns0:Person .
+
+<semex:iid:100000210>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000211>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000212>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000213>
+  a ns0:Conference ;
+  ns0:confName "in acm symp. on the theory of computing" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1995" .
+
+<semex:iid:100000214>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000213> ;
+  ns0:year "1995" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000207>, <semex:iid:100000208>, <semex:iid:100000209>, <semex:iid:100000210>, <semex:iid:100000211>, <semex:iid:100000212> .
+
+<semex:iid:100000215>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000216>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000217>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000218>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000219>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000220>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000221>
+  a ns0:Conference ;
+  ns0:confName "in annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000222>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000221> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000215>, <semex:iid:100000216>, <semex:iid:100000217>, <semex:iid:100000218>, <semex:iid:100000219>, <semex:iid:100000220> .
+
+<semex:iid:100000223>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000224>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000225>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000226>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000227>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000228>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000229>
+  a ns0:Conference ;
+  ns0:confName "in annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000230>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000229> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000223>, <semex:iid:100000224>, <semex:iid:100000225>, <semex:iid:100000226>, <semex:iid:100000227>, <semex:iid:100000228> .
+
+<semex:iid:100000231>
+  ns0:name "man-fred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000232>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000233>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000234>
+  ns0:name "david p. helm-bold" ;
+  a ns0:Person .
+
+<semex:iid:100000235>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000236>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000237>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000238>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000237> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000231>, <semex:iid:100000232>, <semex:iid:100000233>, <semex:iid:100000234>, <semex:iid:100000235>, <semex:iid:100000236> .
+
+<semex:iid:100000239>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000240>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000241>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000242>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000243>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000244>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000245>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000246>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000245> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000239>, <semex:iid:100000240>, <semex:iid:100000241>, <semex:iid:100000242>, <semex:iid:100000243>, <semex:iid:100000244> .
+
+<semex:iid:100000247>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000248>
+  ns0:name "r. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000249>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000250>
+  ns0:name "d. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000251>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000252>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000253>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty fifth annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "san diego, ca, may" .
+
+<semex:iid:100000254>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000253> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000247>, <semex:iid:100000248>, <semex:iid:100000249>, <semex:iid:100000250>, <semex:iid:100000251>, <semex:iid:100000252> .
+
+<semex:iid:100000255>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000256>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000257>
+  ns0:name "david haus-sler" ;
+  a ns0:Person .
+
+<semex:iid:100000258>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000259>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000260>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000261>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000262>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000261> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000255>, <semex:iid:100000256>, <semex:iid:100000257>, <semex:iid:100000258>, <semex:iid:100000259>, <semex:iid:100000260> .
+
+<semex:iid:100000263>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000264>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000265>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000266>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000267>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000268>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000269>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000270>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000269> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000263>, <semex:iid:100000264>, <semex:iid:100000265>, <semex:iid:100000266>, <semex:iid:100000267>, <semex:iid:100000268> .
+
+<semex:iid:100000271>
+  ns0:name ", m." ;
+  a ns0:Person .
+
+<semex:iid:100000272>
+  ns0:name "r. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000273>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000274>
+  ns0:name "d. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000275>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000276>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000277>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the eighteenth annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "san diego, ca" .
+
+<semex:iid:100000278>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000277> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "war muth. how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000271>, <semex:iid:100000272>, <semex:iid:100000273>, <semex:iid:100000274>, <semex:iid:100000275>, <semex:iid:100000276> .
+
+<semex:iid:100000279>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000280>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000281>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000282>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000283>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000284>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000285>
+  a ns0:Conference ;
+  ns0:confName "in proc. 25th annu. acm sympos. theory comput" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "new york, ny" .
+
+<semex:iid:100000286>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000285> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000279>, <semex:iid:100000280>, <semex:iid:100000281>, <semex:iid:100000282>, <semex:iid:100000283>, <semex:iid:100000284> .
+
+<semex:iid:100000287>
+  ns0:name "m.k. warmuth" ;
+  a ns0:Person .
+
+<semex:iid:100000288>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000289>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000290>
+  ns0:name "d.h. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000291>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000292>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000293>
+  a ns0:Conference ;
+  ns0:confName "in 25th annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "san diego, ca" .
+
+<semex:iid:100000294>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000293> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000287>, <semex:iid:100000288>, <semex:iid:100000289>, <semex:iid:100000290>, <semex:iid:100000291>, <semex:iid:100000292> .
+
+<semex:iid:100000295>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000296>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000297>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000298>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000299>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000300>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000301>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 25th acm symposium on the theory of computation" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000302>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000301> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000295>, <semex:iid:100000296>, <semex:iid:100000297>, <semex:iid:100000298>, <semex:iid:100000299>, <semex:iid:100000300> .
+
+<semex:iid:100000303>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000304>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000305>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000306>
+  ns0:name "david p. helm-bold" ;
+  a ns0:Person .
+
+<semex:iid:100000307>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000308>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000309>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000310>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000309> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000303>, <semex:iid:100000304>, <semex:iid:100000305>, <semex:iid:100000306>, <semex:iid:100000307>, <semex:iid:100000308> .
+
+<semex:iid:100000311>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000312>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000313>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000314>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000315>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000316>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000317>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000318>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000317> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000311>, <semex:iid:100000312>, <semex:iid:100000313>, <semex:iid:100000314>, <semex:iid:100000315>, <semex:iid:100000316> .
+
+<semex:iid:100000319>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000320>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000321>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000322>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000323>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000324>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000325>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000326>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000325> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000319>, <semex:iid:100000320>, <semex:iid:100000321>, <semex:iid:100000322>, <semex:iid:100000323>, <semex:iid:100000324> .
+
+<semex:iid:100000327>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000328>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000329>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000330>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000331>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000332>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000333>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000334>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000333> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000327>, <semex:iid:100000328>, <semex:iid:100000329>, <semex:iid:100000330>, <semex:iid:100000331>, <semex:iid:100000332> .
+
+<semex:iid:100000335>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000336>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000337>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000338>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000339>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000340>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000341>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 25th acm symposium on the theory of computation" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000342>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000341> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000335>, <semex:iid:100000336>, <semex:iid:100000337>, <semex:iid:100000338>, <semex:iid:100000339>, <semex:iid:100000340> .
+
+<semex:iid:100000343>
+  ns0:name "m. war-muth." ;
+  a ns0:Person .
+
+<semex:iid:100000344>
+  ns0:name "r. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000345>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000346>
+  ns0:name "d. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000347>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000348>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000349>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the eighteenth annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "san diego, ca" .
+
+<semex:iid:100000350>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000349> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000343>, <semex:iid:100000344>, <semex:iid:100000345>, <semex:iid:100000346>, <semex:iid:100000347>, <semex:iid:100000348> .
+
+<semex:iid:100000351>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000352>
+  ns0:name "r. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000353>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000354>
+  ns0:name "d. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000355>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000356>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000357>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the eighteenth annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "san diego, ca" .
+
+<semex:iid:100000358>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000357> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000351>, <semex:iid:100000352>, <semex:iid:100000353>, <semex:iid:100000354>, <semex:iid:100000355>, <semex:iid:100000356> .
+
+<semex:iid:100000359>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000360>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000361>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000362>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000363>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000364>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000365>
+  a ns0:Conference ;
+  ns0:confName "in proc. 25th symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "new york, ny" .
+
+<semex:iid:100000366>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000365> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000359>, <semex:iid:100000360>, <semex:iid:100000361>, <semex:iid:100000362>, <semex:iid:100000363>, <semex:iid:100000364> .
+
+<semex:iid:100000367>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000368>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000369>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000370>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000371>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000372>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000373>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 43 twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000374>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000373> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000367>, <semex:iid:100000368>, <semex:iid:100000369>, <semex:iid:100000370>, <semex:iid:100000371>, <semex:iid:100000372> .
+
+<semex:iid:100000375>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000376>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000377>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000378>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000379>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000380>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000381>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty fifth annual acm symposium on theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000382>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000381> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000375>, <semex:iid:100000376>, <semex:iid:100000377>, <semex:iid:100000378>, <semex:iid:100000379>, <semex:iid:100000380> .
+
+<semex:iid:100000383>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000384>
+  ns0:name "r.e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000385>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000386>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000387>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000388>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000389>
+  a ns0:Conference ;
+  ns0:confName "proceedings of the 25th acm symposium on the theory of computation" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000390>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000389> ;
+  ns0:year "1993" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000383>, <semex:iid:100000384>, <semex:iid:100000385>, <semex:iid:100000386>, <semex:iid:100000387>, <semex:iid:100000388> .
+
+<semex:iid:100000391>
+  ns0:name "manfred k warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000392>
+  ns0:name "robert e schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000393>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000394>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000395>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000396>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000397>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the twenty-fifth annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000398>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000397> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000391>, <semex:iid:100000392>, <semex:iid:100000393>, <semex:iid:100000394>, <semex:iid:100000395>, <semex:iid:100000396> .
+
+<semex:iid:100000399>
+  ns0:name ", m. k." ;
+  a ns0:Person .
+
+<semex:iid:100000400>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000401>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000402>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000403>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000404>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000405>
+  a ns0:Conference ;
+  ns0:confName "proceedings of stoc" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000406>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000405> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "382" ;
+  ns0:pageTo "391" ;
+  ns0:title "warmuth 'how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000399>, <semex:iid:100000400>, <semex:iid:100000401>, <semex:iid:100000402>, <semex:iid:100000403>, <semex:iid:100000404> .
+
+<semex:iid:100000407>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000408>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000409>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000410>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000411>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "oxford" .
+
+<semex:iid:100000412>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000411> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line predic tion and conversion strategies" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000407>, <semex:iid:100000408>, <semex:iid:100000409>, <semex:iid:100000410> .
+
+<semex:iid:100000413>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000414>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000415>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000416>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000417>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "oxford" .
+
+<semex:iid:100000418>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000417> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000413>, <semex:iid:100000414>, <semex:iid:100000415>, <semex:iid:100000416> .
+
+<semex:iid:100000419>
+  ns0:name "helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000420>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000421>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000422>
+  a ns0:Conference ;
+  ns0:confName "the institute of mathematics and its applications" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000423>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000422> ;
+  ns0:year "1994" ;
+  ns0:title "on-line prediction and conversion strategies. in proceedings of the first euro-colt workshop" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000419>, <semex:iid:100000420>, <semex:iid:100000421> .
+
+<semex:iid:100000424>
+  ns0:name "warmuth,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000425>
+  ns0:name "helmbold,  d. p." ;
+  a ns0:Person .
+
+<semex:iid:100000426>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000427>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000428>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory eurocolt '93," ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000429>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000428> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000424>, <semex:iid:100000425>, <semex:iid:100000426>, <semex:iid:100000427> .
+
+<semex:iid:100000430>
+  ns0:name "warmuth,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000431>
+  ns0:name "helmbold,  d. p." ;
+  a ns0:Person .
+
+<semex:iid:100000432>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000433>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000434>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory eurocolt '93," ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000435>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000434> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000430>, <semex:iid:100000431>, <semex:iid:100000432>, <semex:iid:100000433> .
+
+<semex:iid:100000436>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000437>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000438>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000439>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000440>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000441>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000440> ;
+  ns0:year "1994" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000436>, <semex:iid:100000437>, <semex:iid:100000438>, <semex:iid:100000439> .
+
+<semex:iid:100000442>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000443>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000444>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000445>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000446>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory eu-rocolt '93," ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1993" ;
+  ns0:city "oxford" .
+
+<semex:iid:100000447>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000446> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000442>, <semex:iid:100000443>, <semex:iid:100000444>, <semex:iid:100000445> .
+
+<semex:iid:100000448>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000449>
+  ns0:name "d.p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000450>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000451>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000452>
+  a ns0:Conference ;
+  ns0:confName "in eurocolt" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000453>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000452> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000448>, <semex:iid:100000449>, <semex:iid:100000450>, <semex:iid:100000451> .
+
+<semex:iid:100000454>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000455>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000456>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000457>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000458>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" ;
+  ns0:city "oxford" .
+
+<semex:iid:100000459>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000458> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000454>, <semex:iid:100000455>, <semex:iid:100000456>, <semex:iid:100000457> .
+
+<semex:iid:100000460>
+  ns0:name "m.k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000461>
+  ns0:name "d. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000462>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000463>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000464>
+  a ns0:Conference ;
+  ns0:confName "the 1993 ima european conference on computational learning theory" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1993" .
+
+<semex:iid:100000465>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000464> ;
+  ns0:year "1993" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000460>, <semex:iid:100000461>, <semex:iid:100000462>, <semex:iid:100000463> .
+
+<semex:iid:100000466>
+  ns0:name "m. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000467>
+  ns0:name "d. p. helm-bold" ;
+  a ns0:Person .
+
+<semex:iid:100000468>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000469>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000470>
+  a ns0:Conference ;
+  ns0:confName "in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications confer--ence series" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1993" ;
+  ns0:city "oxford" .
+
+<semex:iid:100000471>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000470> ;
+  ns0:year "1993" ;
+  ns0:pageFrom "205" ;
+  ns0:pageTo "216" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000466>, <semex:iid:100000467>, <semex:iid:100000468>, <semex:iid:100000469> .
+
+<semex:iid:100000472>
+  ns0:name "warmuth,  m. k." ;
+  a ns0:Person .
+
+<semex:iid:100000473>
+  ns0:name "schapire,  r. e." ;
+  a ns0:Person .
+
+<semex:iid:100000474>
+  ns0:name "helmbold,  d. p." ;
+  a ns0:Person .
+
+<semex:iid:100000475>
+  ns0:name "haussler,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000476>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000477>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000478>
+  a ns0:Conference ;
+  ns0:confName "technical report ucsc-crl" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000479>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000478> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000472>, <semex:iid:100000473>, <semex:iid:100000474>, <semex:iid:100000475>, <semex:iid:100000476>, <semex:iid:100000477> .
+
+<semex:iid:100000480>
+  ns0:name "warmuth,  m. k." ;
+  a ns0:Person .
+
+<semex:iid:100000481>
+  ns0:name "schapire,  r. e." ;
+  a ns0:Person .
+
+<semex:iid:100000482>
+  ns0:name "helmbold,  d. p." ;
+  a ns0:Person .
+
+<semex:iid:100000483>
+  ns0:name "haussler,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000484>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000485>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000486>
+  a ns0:Conference ;
+  ns0:confName "computer research laboratory. an extended abstract appeared in 'proceedings, 25th annual acm symposium on the theory of computing" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1994" ;
+  ns0:city "new york" .
+
+<semex:iid:100000487>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000486> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000480>, <semex:iid:100000481>, <semex:iid:100000482>, <semex:iid:100000483>, <semex:iid:100000484>, <semex:iid:100000485> .
+
+<semex:iid:100000488>
+  ns0:name "m. k. warmuth" ;
+  a ns0:Person .
+
+<semex:iid:100000489>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000490>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000491>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000492>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000493>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000494>
+  a ns0:Conference ;
+  ns0:confName "tech. rep" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000495>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000494> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000488>, <semex:iid:100000489>, <semex:iid:100000490>, <semex:iid:100000491>, <semex:iid:100000492>, <semex:iid:100000493> .
+
+<semex:iid:100000496>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000497>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000498>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000499>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000500>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000501>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000502>
+  a ns0:Conference ;
+  ns0:confName "technical report ucsc-crl" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" ;
+  ns0:city "santa cruz, ca" .
+
+<semex:iid:100000503>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000502> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000496>, <semex:iid:100000497>, <semex:iid:100000498>, <semex:iid:100000499>, <semex:iid:100000500>, <semex:iid:100000501> .
+
+<semex:iid:100000504>
+  ns0:name "m. k. warmuth" ;
+  a ns0:Person .
+
+<semex:iid:100000505>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000506>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000507>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000508>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000509>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000510>
+  a ns0:Conference ;
+  ns0:confName "tech. rep" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" .
+
+<semex:iid:100000511>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000510> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000504>, <semex:iid:100000505>, <semex:iid:100000506>, <semex:iid:100000507>, <semex:iid:100000508>, <semex:iid:100000509> .
+
+<semex:iid:100000512>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000513>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000514>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000515>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000516>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000517>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000518>
+  a ns0:Conference ;
+  ns0:confName "technical report ucsc-crl" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" ;
+  ns0:city "santa cruz, ca" .
+
+<semex:iid:100000519>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000518> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000512>, <semex:iid:100000513>, <semex:iid:100000514>, <semex:iid:100000515>, <semex:iid:100000516>, <semex:iid:100000517> .
+
+<semex:iid:100000520>
+  ns0:name "m. k. war-muth." ;
+  a ns0:Person .
+
+<semex:iid:100000521>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000522>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000523>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000524>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000525>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000526>
+  a ns0:Conference ;
+  ns0:confName "technical report ucsc-crl" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" ;
+  ns0:city "santa cruz, ca" .
+
+<semex:iid:100000527>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000526> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000520>, <semex:iid:100000521>, <semex:iid:100000522>, <semex:iid:100000523>, <semex:iid:100000524>, <semex:iid:100000525> .
+
+<semex:iid:100000528>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000529>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000530>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000531>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000532>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000533>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000534>
+  a ns0:Conference ;
+  ns0:confName "technical report ucsc-crl" ;
+  ns0:confType "technical report" ;
+  ns0:confYear "1994" ;
+  ns0:city "santa cruz, ca" .
+
+<semex:iid:100000535>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000534> ;
+  ns0:year "1994" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "technical report" ;
+  ns0:author <semex:iid:100000528>, <semex:iid:100000529>, <semex:iid:100000530>, <semex:iid:100000531>, <semex:iid:100000532>, <semex:iid:100000533> .
+
+<semex:iid:100000536>
+  ns0:name "m. k. warmuth" ;
+  a ns0:Person .
+
+<semex:iid:100000537>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000538>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000539>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000540>
+  a ns0:Conference ;
+  ns0:confName "machine learning vol. 25," ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1996" .
+
+<semex:iid:100000541>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000540> ;
+  ns0:year "1996" ;
+  ns0:pageFrom "71" ;
+  ns0:pageTo "110" ;
+  ns0:title "on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000536>, <semex:iid:100000537>, <semex:iid:100000538>, <semex:iid:100000539> .
+
+<semex:iid:100000542>
+  ns0:name "m. k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000543>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000544>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000545>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000546>
+  a ns0:Conference ;
+  ns0:confName "machine learning" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1995" .
+
+<semex:iid:100000547>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000546> ;
+  ns0:year "1995" ;
+  ns0:title "on--line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000542>, <semex:iid:100000543>, <semex:iid:100000544>, <semex:iid:100000545> .
+
+<semex:iid:100000548>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000549>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000550>
+  a ns0:Conference ;
+  ns0:confName "machine learning" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1996" .
+
+<semex:iid:100000551>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000550> ;
+  ns0:year "1996" ;
+  ns0:title "d.p. helmbold, and m.k. warmuth. on-line prediction and conversion strategies" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000548>, <semex:iid:100000549> .
+
+<semex:iid:100000552>
+  ns0:name "warmuth,  m. k." ;
+  a ns0:Person .
+
+<semex:iid:100000553>
+  ns0:name "schapire,  r. e." ;
+  a ns0:Person .
+
+<semex:iid:100000554>
+  ns0:name "helmbold,  d. p." ;
+  a ns0:Person .
+
+<semex:iid:100000555>
+  ns0:name "haussler,  d." ;
+  a ns0:Person .
+
+<semex:iid:100000556>
+  ns0:name "freund,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000557>
+  ns0:name "cesa-bianchi,  n." ;
+  a ns0:Person .
+
+<semex:iid:100000558>
+  a ns0:Conference ;
+  ns0:confName "journal of the acm" ;
+  ns0:confType "journal" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000559>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000558> ;
+  ns0:year "1997" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "journal" ;
+  ns0:author <semex:iid:100000552>, <semex:iid:100000553>, <semex:iid:100000554>, <semex:iid:100000555>, <semex:iid:100000556>, <semex:iid:100000557> .
+
+<semex:iid:100000560>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000561>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000562>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000563>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000564>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000565>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000566>
+  a ns0:Conference ;
+  ns0:confName "journal of the association for computing machinery" ;
+  ns0:confType "journal" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000567>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000566> ;
+  ns0:year "1997" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "journal" ;
+  ns0:author <semex:iid:100000560>, <semex:iid:100000561>, <semex:iid:100000562>, <semex:iid:100000563>, <semex:iid:100000564>, <semex:iid:100000565> .
+
+<semex:iid:100000568>
+  ns0:name "manfred k. warmuth." ;
+  a ns0:Person .
+
+<semex:iid:100000569>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000570>
+  ns0:name "david p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000571>
+  ns0:name "david haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000572>
+  ns0:name "yoav freund" ;
+  a ns0:Person .
+
+<semex:iid:100000573>
+  ns0:name "nicolo cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000574>
+  a ns0:Conference ;
+  ns0:confName "journal of the association for computing machinery" ;
+  ns0:confType "journal" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000575>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000574> ;
+  ns0:year "1997" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "journal" ;
+  ns0:author <semex:iid:100000568>, <semex:iid:100000569>, <semex:iid:100000570>, <semex:iid:100000571>, <semex:iid:100000572>, <semex:iid:100000573> .
+
+<semex:iid:100000576>
+  ns0:name "m. k. warmuth" ;
+  a ns0:Person .
+
+<semex:iid:100000577>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000578>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000579>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000580>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000581>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000582>
+  a ns0:Conference ;
+  ns0:confName "journal of the acm vol. 44," ;
+  ns0:confType "journal" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000583>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000582> ;
+  ns0:year "1997" ;
+  ns0:pageFrom "427" ;
+  ns0:pageTo "485" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "journal" ;
+  ns0:author <semex:iid:100000576>, <semex:iid:100000577>, <semex:iid:100000578>, <semex:iid:100000579>, <semex:iid:100000580>, <semex:iid:100000581> .
+
+<semex:iid:100000584>
+  ns0:name "m. k. warmuth" ;
+  a ns0:Person .
+
+<semex:iid:100000585>
+  ns0:name "r. e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000586>
+  ns0:name "d. p. helmbold" ;
+  a ns0:Person .
+
+<semex:iid:100000587>
+  ns0:name "d. haussler" ;
+  a ns0:Person .
+
+<semex:iid:100000588>
+  ns0:name "y. freund" ;
+  a ns0:Person .
+
+<semex:iid:100000589>
+  ns0:name "n. cesa-bianchi" ;
+  a ns0:Person .
+
+<semex:iid:100000590>
+  a ns0:Conference ;
+  ns0:confName "journal of the acm vol. 44," ;
+  ns0:confType "journal" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000591>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000590> ;
+  ns0:year "1997" ;
+  ns0:pageFrom "427" ;
+  ns0:pageTo "485" ;
+  ns0:title "how to use expert advice" ;
+  ns0:articleType "journal" ;
+  ns0:author <semex:iid:100000584>, <semex:iid:100000585>, <semex:iid:100000586>, <semex:iid:100000587>, <semex:iid:100000588>, <semex:iid:100000589> .
+
+<semex:iid:100000592>
+  ns0:name "yoram singer." ;
+  a ns0:Person .
+
+<semex:iid:100000593>
+  ns0:name "rob schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000594>
+  ns0:name "william w. cohen" ;
+  a ns0:Person .
+
+<semex:iid:100000595>
+  a ns0:Conference ;
+  ns0:confName "in advances in neural information processing systems" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000596>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000595> ;
+  ns0:year "1997" ;
+  ns0:title "learning to order things" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000592>, <semex:iid:100000593>, <semex:iid:100000594> .
+
+<semex:iid:100000597>
+  ns0:name "yoram singer." ;
+  a ns0:Person .
+
+<semex:iid:100000598>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000599>
+  ns0:name "william w. cohen" ;
+  a ns0:Person .
+
+<semex:iid:100000600>
+  a ns0:Conference ;
+  ns0:confName "in advances in neural information processing systems" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1997" .
+
+<semex:iid:100000601>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000600> ;
+  ns0:year "1997" ;
+  ns0:title "learning ro order things" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000597>, <semex:iid:100000598>, <semex:iid:100000599> .
+
+<semex:iid:100000602>
+  ns0:name "yoram singer." ;
+  a ns0:Person .
+
+<semex:iid:100000603>
+  ns0:name "robert e. schapire" ;
+  a ns0:Person .
+
+<semex:iid:100000604>
+  ns0:name "william w. cohen" ;
+  a ns0:Person .
+
+<semex:iid:100000605>
+  a ns0:Conference ;
+  ns0:confName "in advances in neural information processing systems" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1998" .
+
+<semex:iid:100000606>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000605> ;
+  ns0:year "1998" ;
+  ns0:title "learning to order things" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000602>, <semex:iid:100000603>, <semex:iid:100000604> .
+
+<semex:iid:100000607>
+  ns0:name "y. singer." ;
+  a ns0:Person .
+
+<semex:iid:100000608>
+  ns0:name "r. e. shapire" ;
+  a ns0:Person .
+
+<semex:iid:100000609>
+  ns0:name "w. w. cohen" ;
+  a ns0:Person .
+
+<semex:iid:100000610>
+  a ns0:Conference ;
+  ns0:confName "in advances in neural information processing systems" ;
+  ns0:confType "NULL" ;
+  ns0:confYear "1998" .
+
+<semex:iid:100000611>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000610> ;
+  ns0:year "1998" ;
+  ns0:title "learning to order things" ;
+  ns0:articleType "NULL" ;
+  ns0:author <semex:iid:100000607>, <semex:iid:100000608>, <semex:iid:100000609> .
+
+<semex:iid:100000612>
+  ns0:name "y. mansour." ;
+  a ns0:Person .
+
+<semex:iid:100000613>
+  ns0:name "m. kearns" ;
+  a ns0:Person .
+
+<semex:iid:100000614>
+  ns0:name "t. g. dietterich" ;
+  a ns0:Person .
+
+<semex:iid:100000615>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 13th international conference on machine learning" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1996" .
+
+<semex:iid:100000616>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000615> ;
+  ns0:year "1996" ;
+  ns0:pageFrom "96" ;
+  ns0:pageTo "104" ;
+  ns0:title "applying the weak learning framework to understand and improve c" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000612>, <semex:iid:100000613>, <semex:iid:100000614> .
+
+<semex:iid:100000617>
+  ns0:name "mansour,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000618>
+  ns0:name "kearns,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000619>
+  ns0:name "dietterich,  t. g." ;
+  a ns0:Person .
+
+<semex:iid:100000620>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the 13th international conference on machine learning" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1996" .
+
+<semex:iid:100000621>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000620> ;
+  ns0:year "1996" ;
+  ns0:pageFrom "96" ;
+  ns0:pageTo "104" ;
+  ns0:title "applying the weak learning framework to understand and improve c" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000617>, <semex:iid:100000618>, <semex:iid:100000619> .
+
+<semex:iid:100000622>
+  ns0:name "mansour,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000623>
+  ns0:name "kearns,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000624>
+  ns0:name "dietterich,  t." ;
+  a ns0:Person .
+
+<semex:iid:100000625>
+  a ns0:Conference ;
+  ns0:confName "in proceedings of the thirteenth international conference on machine learning" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1996" ;
+  ns0:city "bari, italy" .
+
+<semex:iid:100000626>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000625> ;
+  ns0:year "1996" ;
+  ns0:title "applying the weak learning framework to understand and improve c" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000622>, <semex:iid:100000623>, <semex:iid:100000624> .
+
+<semex:iid:100000627>
+  ns0:name "mansour,  y." ;
+  a ns0:Person .
+
+<semex:iid:100000628>
+  ns0:name "kearns,  m." ;
+  a ns0:Person .
+
+<semex:iid:100000629>
+  ns0:name "dietterich,  t." ;
+  a ns0:Person .
+
+<semex:iid:100000630>
+  a ns0:Conference ;
+  ns0:confName "proc. thirteenth intl. conf. machine learning (pp" ;
+  ns0:confType "proceedings" ;
+  ns0:confYear "1996" .
+
+<semex:iid:100000631>
+  a ns0:Article ;
+  ns0:published <semex:iid:100000630> ;
+  ns0:year "1996" ;
+  ns0:title "applying the weak learning framework to understand and improve c" ;
+  ns0:articleType "proceedings" ;
+  ns0:author <semex:iid:100000627>, <semex:iid:100000628>, <semex:iid:100000629> .

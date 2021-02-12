@@ -1,0 +1,290 @@
+Prefix(:=<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+Prefix(master-d-k-ontology:=<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#>)
+
+
+Ontology(<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology>
+
+Declaration(Class(master-d-k-ontology:Course))
+Declaration(Class(master-d-k-ontology:Defense))
+Declaration(Class(master-d-k-ontology:Examination))
+Declaration(Class(master-d-k-ontology:Examinator))
+Declaration(Class(master-d-k-ontology:FinalExam))
+Declaration(Class(master-d-k-ontology:Internship))
+Declaration(Class(master-d-k-ontology:MandatoryCourse))
+Declaration(Class(master-d-k-ontology:MidTermExamination))
+Declaration(Class(master-d-k-ontology:ModuleLiberte))
+Declaration(Class(master-d-k-ontology:OptionalCourse))
+Declaration(Class(master-d-k-ontology:Person))
+Declaration(Class(master-d-k-ontology:Place))
+Declaration(Class(master-d-k-ontology:Program))
+Declaration(Class(master-d-k-ontology:Project))
+Declaration(Class(master-d-k-ontology:Report))
+Declaration(Class(master-d-k-ontology:Scientific_advisor))
+Declaration(Class(master-d-k-ontology:Student))
+Declaration(Class(master-d-k-ontology:intership_advisor))
+Declaration(ObjectProperty(master-d-k-ontology:Follow))
+Declaration(ObjectProperty(master-d-k-ontology:Follows))
+Declaration(ObjectProperty(master-d-k-ontology:agreement))
+Declaration(ObjectProperty(master-d-k-ontology:followsML))
+Declaration(ObjectProperty(master-d-k-ontology:offers))
+Declaration(ObjectProperty(master-d-k-ontology:organise))
+Declaration(ObjectProperty(master-d-k-ontology:organise_defense))
+Declaration(ObjectProperty(master-d-k-ontology:registredTO))
+Declaration(DataProperty(master-d-k-ontology:Localisation))
+Declaration(DataProperty(master-d-k-ontology:duration))
+Declaration(DataProperty(master-d-k-ontology:duration_internship))
+Declaration(DataProperty(master-d-k-ontology:firstName))
+Declaration(DataProperty(master-d-k-ontology:language))
+Declaration(DataProperty(master-d-k-ontology:name))
+Declaration(DataProperty(master-d-k-ontology:refInstitute))
+Declaration(DataProperty(master-d-k-ontology:title))
+Declaration(DataProperty(master-d-k-ontology:totalGrades))
+Declaration(DataProperty(master-d-k-ontology:webPage))
+Declaration(DataProperty(<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#Company/Lab>))
+Declaration(NamedIndividual(master-d-k-ontology:Silvu))
+Declaration(NamedIndividual(master-d-k-ontology:Theo))
+Declaration(NamedIndividual(master-d-k-ontology:afds))
+Declaration(NamedIndividual(master-d-k-ontology:communication))
+Declaration(NamedIndividual(master-d-k-ontology:dk-master))
+Declaration(NamedIndividual(master-d-k-ontology:martin))
+Declaration(NamedIndividual(master-d-k-ontology:researchWritings))
+Declaration(NamedIndividual(master-d-k-ontology:swo))
+############################
+#   Object Properties
+############################
+
+# Object Property: master-d-k-ontology:Follow (master-d-k-ontology:Follow)
+
+SubObjectPropertyOf(master-d-k-ontology:Follow owl:topObjectProperty)
+ObjectPropertyDomain(master-d-k-ontology:Follow master-d-k-ontology:Scientific_advisor)
+ObjectPropertyDomain(master-d-k-ontology:Follow master-d-k-ontology:intership_advisor)
+ObjectPropertyRange(master-d-k-ontology:Follow master-d-k-ontology:Student)
+
+# Object Property: master-d-k-ontology:Follows (master-d-k-ontology:Follows)
+
+SubObjectPropertyOf(master-d-k-ontology:Follows owl:topObjectProperty)
+ObjectPropertyDomain(master-d-k-ontology:Follows master-d-k-ontology:Student)
+ObjectPropertyRange(master-d-k-ontology:Follows master-d-k-ontology:Course)
+
+# Object Property: master-d-k-ontology:agreement (master-d-k-ontology:agreement)
+
+SubObjectPropertyOf(master-d-k-ontology:agreement owl:topObjectProperty)
+ObjectPropertyDomain(master-d-k-ontology:agreement master-d-k-ontology:Student)
+ObjectPropertyRange(master-d-k-ontology:agreement master-d-k-ontology:intership_advisor)
+
+# Object Property: master-d-k-ontology:followsML (master-d-k-ontology:followsML)
+
+SubObjectPropertyOf(master-d-k-ontology:followsML master-d-k-ontology:Follows)
+FunctionalObjectProperty(master-d-k-ontology:followsML)
+ObjectPropertyDomain(master-d-k-ontology:followsML master-d-k-ontology:Student)
+ObjectPropertyRange(master-d-k-ontology:followsML master-d-k-ontology:ModuleLiberte)
+
+# Object Property: master-d-k-ontology:offers (master-d-k-ontology:offers)
+
+SubObjectPropertyOf(master-d-k-ontology:offers owl:topObjectProperty)
+ObjectPropertyDomain(master-d-k-ontology:offers master-d-k-ontology:Course)
+ObjectPropertyRange(master-d-k-ontology:offers master-d-k-ontology:Examination)
+
+# Object Property: master-d-k-ontology:organise (master-d-k-ontology:organise)
+
+SubObjectPropertyOf(master-d-k-ontology:organise owl:topObjectProperty)
+InverseFunctionalObjectProperty(master-d-k-ontology:organise)
+ObjectPropertyDomain(master-d-k-ontology:organise master-d-k-ontology:Examinator)
+ObjectPropertyRange(master-d-k-ontology:organise master-d-k-ontology:Examination)
+
+# Object Property: master-d-k-ontology:organise_defense (master-d-k-ontology:organise_defense)
+
+SubObjectPropertyOf(master-d-k-ontology:organise_defense owl:topObjectProperty)
+ObjectPropertyDomain(master-d-k-ontology:organise_defense master-d-k-ontology:Student)
+ObjectPropertyRange(master-d-k-ontology:organise_defense master-d-k-ontology:Defense)
+
+# Object Property: master-d-k-ontology:registredTO (master-d-k-ontology:registredTO)
+
+SubObjectPropertyOf(master-d-k-ontology:registredTO owl:topObjectProperty)
+FunctionalObjectProperty(master-d-k-ontology:registredTO)
+ObjectPropertyDomain(master-d-k-ontology:registredTO master-d-k-ontology:Student)
+ObjectPropertyRange(master-d-k-ontology:registredTO master-d-k-ontology:Program)
+
+
+############################
+#   Data Properties
+############################
+
+# Data Property: master-d-k-ontology:Localisation (master-d-k-ontology:Localisation)
+
+SubDataPropertyOf(master-d-k-ontology:Localisation owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:Localisation master-d-k-ontology:Internship)
+DataPropertyRange(master-d-k-ontology:Localisation xsd:string)
+
+# Data Property: master-d-k-ontology:duration (master-d-k-ontology:duration)
+
+SubDataPropertyOf(master-d-k-ontology:duration owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:duration master-d-k-ontology:Program)
+DataPropertyRange(master-d-k-ontology:duration xsd:integer)
+
+# Data Property: master-d-k-ontology:duration_internship (master-d-k-ontology:duration_internship)
+
+SubDataPropertyOf(master-d-k-ontology:duration_internship owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:duration_internship master-d-k-ontology:Internship)
+DataPropertyRange(master-d-k-ontology:duration_internship xsd:integer)
+
+# Data Property: master-d-k-ontology:firstName (master-d-k-ontology:firstName)
+
+SubDataPropertyOf(master-d-k-ontology:firstName owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:firstName master-d-k-ontology:Person)
+DataPropertyRange(master-d-k-ontology:firstName xsd:string)
+
+# Data Property: master-d-k-ontology:language (master-d-k-ontology:language)
+
+SubDataPropertyOf(master-d-k-ontology:language owl:topDataProperty)
+FunctionalDataProperty(master-d-k-ontology:language)
+DataPropertyDomain(master-d-k-ontology:language master-d-k-ontology:Program)
+DataPropertyRange(master-d-k-ontology:language xsd:language)
+
+# Data Property: master-d-k-ontology:name (master-d-k-ontology:name)
+
+SubDataPropertyOf(master-d-k-ontology:name owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:name master-d-k-ontology:Person)
+DataPropertyRange(master-d-k-ontology:name xsd:string)
+
+# Data Property: master-d-k-ontology:refInstitute (master-d-k-ontology:refInstitute)
+
+SubDataPropertyOf(master-d-k-ontology:refInstitute owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:refInstitute master-d-k-ontology:Program)
+DataPropertyRange(master-d-k-ontology:refInstitute xsd:string)
+
+# Data Property: master-d-k-ontology:title (master-d-k-ontology:title)
+
+SubDataPropertyOf(master-d-k-ontology:title owl:topDataProperty)
+FunctionalDataProperty(master-d-k-ontology:title)
+DataPropertyDomain(master-d-k-ontology:title master-d-k-ontology:Program)
+DataPropertyRange(master-d-k-ontology:title xsd:string)
+
+# Data Property: master-d-k-ontology:totalGrades (master-d-k-ontology:totalGrades)
+
+SubDataPropertyOf(master-d-k-ontology:totalGrades owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:totalGrades master-d-k-ontology:Student)
+DataPropertyRange(master-d-k-ontology:totalGrades xsd:double)
+
+# Data Property: master-d-k-ontology:webPage (master-d-k-ontology:webPage)
+
+SubDataPropertyOf(master-d-k-ontology:webPage owl:topDataProperty)
+DataPropertyDomain(master-d-k-ontology:webPage master-d-k-ontology:Program)
+DataPropertyRange(master-d-k-ontology:webPage xsd:anyURI)
+
+# Data Property: <http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#Company/Lab> (<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#Company/Lab>)
+
+SubDataPropertyOf(<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#Company/Lab> owl:topDataProperty)
+DataPropertyDomain(<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#Company/Lab> master-d-k-ontology:Place)
+DataPropertyRange(<http://www.semanticweb.org/fatihasais/ontologies/2020/master-d-k-ontology#Company/Lab> xsd:string)
+
+
+
+############################
+#   Classes
+############################
+
+# Class: master-d-k-ontology:Defense (master-d-k-ontology:Defense)
+
+SubClassOf(master-d-k-ontology:Defense master-d-k-ontology:Examination)
+
+# Class: master-d-k-ontology:Examinator (master-d-k-ontology:Examinator)
+
+SubClassOf(master-d-k-ontology:Examinator master-d-k-ontology:Person)
+DisjointClasses(master-d-k-ontology:Examinator master-d-k-ontology:Student)
+DisjointClasses(master-d-k-ontology:Examinator master-d-k-ontology:intership_advisor)
+
+# Class: master-d-k-ontology:FinalExam (master-d-k-ontology:FinalExam)
+
+SubClassOf(master-d-k-ontology:FinalExam master-d-k-ontology:Examination)
+DisjointClasses(master-d-k-ontology:FinalExam master-d-k-ontology:MidTermExamination)
+
+# Class: master-d-k-ontology:MandatoryCourse (master-d-k-ontology:MandatoryCourse)
+
+SubClassOf(master-d-k-ontology:MandatoryCourse master-d-k-ontology:Course)
+DisjointClasses(master-d-k-ontology:MandatoryCourse master-d-k-ontology:OptionalCourse)
+
+# Class: master-d-k-ontology:MidTermExamination (master-d-k-ontology:MidTermExamination)
+
+SubClassOf(master-d-k-ontology:MidTermExamination master-d-k-ontology:Examination)
+
+# Class: master-d-k-ontology:ModuleLiberte (master-d-k-ontology:ModuleLiberte)
+
+SubClassOf(master-d-k-ontology:ModuleLiberte master-d-k-ontology:OptionalCourse)
+
+# Class: master-d-k-ontology:OptionalCourse (master-d-k-ontology:OptionalCourse)
+
+SubClassOf(master-d-k-ontology:OptionalCourse master-d-k-ontology:Course)
+
+# Class: master-d-k-ontology:Place (master-d-k-ontology:Place)
+
+SubClassOf(master-d-k-ontology:Place master-d-k-ontology:Internship)
+
+# Class: master-d-k-ontology:Project (master-d-k-ontology:Project)
+
+SubClassOf(master-d-k-ontology:Project master-d-k-ontology:Examination)
+
+# Class: master-d-k-ontology:Report (master-d-k-ontology:Report)
+
+SubClassOf(master-d-k-ontology:Report master-d-k-ontology:Examination)
+
+# Class: master-d-k-ontology:Scientific_advisor (master-d-k-ontology:Scientific_advisor)
+
+SubClassOf(master-d-k-ontology:Scientific_advisor master-d-k-ontology:Person)
+DisjointClasses(master-d-k-ontology:Scientific_advisor master-d-k-ontology:Student)
+DisjointClasses(master-d-k-ontology:Scientific_advisor master-d-k-ontology:intership_advisor)
+
+# Class: master-d-k-ontology:Student (master-d-k-ontology:Student)
+
+SubClassOf(master-d-k-ontology:Student master-d-k-ontology:Person)
+DisjointClasses(master-d-k-ontology:Student master-d-k-ontology:intership_advisor)
+
+# Class: master-d-k-ontology:intership_advisor (master-d-k-ontology:intership_advisor)
+
+SubClassOf(master-d-k-ontology:intership_advisor master-d-k-ontology:Person)
+
+
+############################
+#   Named Individuals
+############################
+
+# Individual: master-d-k-ontology:Silvu (master-d-k-ontology:Silvu)
+
+ClassAssertion(master-d-k-ontology:Scientific_advisor master-d-k-ontology:Silvu)
+
+# Individual: master-d-k-ontology:Theo (master-d-k-ontology:Theo)
+
+ClassAssertion(master-d-k-ontology:Examinator master-d-k-ontology:Theo)
+ObjectPropertyAssertion(master-d-k-ontology:organise master-d-k-ontology:Theo master-d-k-ontology:swo)
+
+# Individual: master-d-k-ontology:afds (master-d-k-ontology:afds)
+
+ClassAssertion(master-d-k-ontology:MandatoryCourse master-d-k-ontology:afds)
+
+# Individual: master-d-k-ontology:dk-master (master-d-k-ontology:dk-master)
+
+ClassAssertion(master-d-k-ontology:Program master-d-k-ontology:dk-master)
+
+# Individual: master-d-k-ontology:martin (master-d-k-ontology:martin)
+
+ClassAssertion(master-d-k-ontology:Student master-d-k-ontology:martin)
+ObjectPropertyAssertion(master-d-k-ontology:Follows master-d-k-ontology:martin master-d-k-ontology:swo)
+ObjectPropertyAssertion(master-d-k-ontology:followsML master-d-k-ontology:martin master-d-k-ontology:communication)
+ObjectPropertyAssertion(master-d-k-ontology:followsML master-d-k-ontology:martin master-d-k-ontology:researchWritings)
+ObjectPropertyAssertion(master-d-k-ontology:registredTO master-d-k-ontology:martin master-d-k-ontology:dk-master)
+
+# Individual: master-d-k-ontology:researchWritings (master-d-k-ontology:researchWritings)
+
+ClassAssertion(master-d-k-ontology:ModuleLiberte master-d-k-ontology:researchWritings)
+
+# Individual: master-d-k-ontology:swo (master-d-k-ontology:swo)
+
+ClassAssertion(master-d-k-ontology:MandatoryCourse master-d-k-ontology:swo)
+
+
+)

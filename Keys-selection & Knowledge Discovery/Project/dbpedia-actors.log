@@ -1,0 +1,40 @@
+09.01.2021 20:41:10 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:135): ID: dbpedia
+Var: ?x
+Prefixes: {drugbank=http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/, rdf=http://www.w3.org/1999/02/22-rdf-syntax-ns#, owl=http://www.w3.org/2002/07/owl#, diseasome=http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/, dbpedia-p=http://dbpedia.org/property/, rdfs=http://www.w3.org/2000/01/rdf-schema#, dbpedia=http://dbpedia.org/ontology/, foaf=http://xmlns.com/foaf/0.1/, sider=http://www4.wiwiss.fu-berlin.de/sider/resource/sider/, dc=http://purl.org/dc/terms/}
+Endpoint: http://dbpedia.org/sparql
+Graph: null
+Restrictions: [?x rdf:type dbpedia:Actor]
+Properties: [rdfs:label]
+Functions: {rdfs:label={rdfs:label=nolang->lowercase}}
+Page size: 1000
+Type: sparql
+
+09.01.2021 20:41:10 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:136): ID: dbpedia
+Var: ?y
+Prefixes: {drugbank=http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/, rdf=http://www.w3.org/1999/02/22-rdf-syntax-ns#, owl=http://www.w3.org/2002/07/owl#, diseasome=http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/, dbpedia-p=http://dbpedia.org/property/, rdfs=http://www.w3.org/2000/01/rdf-schema#, dbpedia=http://dbpedia.org/ontology/, foaf=http://xmlns.com/foaf/0.1/, sider=http://www4.wiwiss.fu-berlin.de/sider/resource/sider/, dc=http://purl.org/dc/terms/}
+Endpoint: http://dbpedia.org/sparql
+Graph: null
+Restrictions: [?y rdf:type dbpedia:Actor]
+Properties: [rdfs:label]
+Functions: {rdfs:label={name=nolang->lowercase}}
+Page size: 1000
+Type: sparql
+
+09.01.2021 20:41:10 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:141): Loading source data ...
+09.01.2021 20:41:10 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:232): Checking for file C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\cache\-225619307.ser
+09.01.2021 20:41:10 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:235): Found cached data. Loading data from file C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\cache\-225619307.ser
+09.01.2021 20:41:11 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:241): Cached data loaded successfully from file C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\cache\-225619307.ser
+09.01.2021 20:41:11 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:242): Size = 6627
+09.01.2021 20:41:11 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:146): Loading target data ...
+09.01.2021 20:41:11 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:232): Checking for file C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\cache\1992138646.ser
+09.01.2021 20:41:11 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:235): Found cached data. Loading data from file C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\cache\1992138646.ser
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:241): Cached data loaded successfully from file C:\Users\couco\Downloads\LIMES.0.6.RC4-2\LIMES.0.6.RC4-2\cache\1992138646.ser
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.cache.HybridCache.getData(HybridCache.java:242): Size = 6627
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:159): Getting links ...
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:162): Got links in 108ms.
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.io.SerializerFactory.getSerializer(SerializerFactory.java:22): Getting serializer with name TTL
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:172): Using TtlSerializer to serialize
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:191): Returned 6633 links above acceptance threshold.
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:192): Returned 14 links to review.
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:199): Mapping carried out in 1.573 seconds
+09.01.2021 20:41:12 INFO  [main] de.uni_leipzig.simba.controller.PPJoinController.run(PPJoinController.java:200): Done.

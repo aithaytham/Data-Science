@@ -1,0 +1,419 @@
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/snowcake> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/emily_hampshire> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/dan_minahan> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shanghai_noon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Costume_drama> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/senegal> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/dakar> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sixteen_candles> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/john_hughes> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/raja_gosnell> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Raja Gosnell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lilli_palmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/desmond_tester> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/london> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sean_bean> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Sean Bean"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Creature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/stephen_graham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/bobby_farrelly> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/obi-wan_kenobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/syracuse_new_york> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Syracuse"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/german_language> <http://oaei.ontologymatching.org/2010/IIMBTBOX/spoken_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/vatican_city> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/smokey_and_the_bandit> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/radha_mitchell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/uruguay> <http://oaei.ontologymatching.org/2010/IIMBTBOX/calling_code> "598"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/some_kind_of_wonderful> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Coming_of_age> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/paraguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/paul_walker> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Paul Walker"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/qui-gon_jinn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3qnt> <http://oaei.ontologymatching.org/2010/IIMBTBOX/amount> "2.78E7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/china> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/desmond_tester> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1919-02-17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chon_lin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/korean_language> <http://oaei.ontologymatching.org/2010/IIMBTBOX/dialect> "Hamgy\u014Fng dialect"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shreveport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/soylent_green> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnpgbz> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Wallace"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sharonville> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "25.6408822923"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/leif_erickson> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/alameda> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/new_delhi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/some_kind_of_wonderful> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Romantic_comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spartacus_1960> <http://oaei.ontologymatching.org/2010/IIMBTBOX/estimated_budget_used> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3m6d> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/tobey_maguire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/snatch> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/stephen_graham> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sierra_leone> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Republic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jerzy_stuhr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Teen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/karen_allen> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/carrollton_illinois> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sweet_home_alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Drama> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/territory_of_papua_and_new_guinea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/tallinn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/singapore> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "704.0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/julie_andrews> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Julie Andrews"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/joe_viterelli> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/the_bronx> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Psycho-biddy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spirited_away> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/rumi_hiiragi> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jackie_searl> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1921-07-07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/washington_united_states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/gene_kelly> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1912-08-23"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/daliah_lavi> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Daliah Lavi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/equatorial_guinea> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Equatorial Guinea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/panama> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Constitutional democracy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/david_dilbeck> <http://oaei.ontologymatching.org/2010/IIMBTBOX/acted_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/burt_reynolds> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/walt_disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/fann_wong> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Fann Wong"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cillian_murphy> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1976-05-25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/01z68l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/patrick_dempsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/splash> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/eugene_levy> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Airplanes_and_airports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/steve_forrest> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/patrick_tse_yin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/north_korea> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Socialist state"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Black_comedy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/mary_jane_watson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/beverly_crusher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/central_african_republic> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/bangui> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/andrei_tarkovsky> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Andrei Tarkovsky"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/dennis_farina> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/chicago> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shakespeare_in_love> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnpdzm> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/david_prowse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/janet_garrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kherson> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "135.7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/san_francisco> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "San Francisco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/performs> <http://www.w3.org/2002/07/owl#inverseOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/acted_by> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/nancy_callahan> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jodelle_ferland> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1994-10-09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/samuel_l_jackson> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/holmer_green> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/joseph_cotten> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/petersburg> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chiwetel_ejiofor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/malcolm_reynolds> <http://oaei.ontologymatching.org/2010/IIMBTBOX/created_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/joss_whedon> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/west_bromwich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sam_huntington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/snatch> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/russian> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/swordsman_ii> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/japanese> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sleepover_2004> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/joe_nussbaum> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/History> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/peter_farrelly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/graham_stark> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/hot_springs> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Hot Springs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ben_affleck> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1972-08-15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/stardust_memories> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/south_park_bigger_longer_uncut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/bobcat_goldthwait> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Bobcat Goldthwait"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k31ly> <http://oaei.ontologymatching.org/2010/IIMBTBOX/amount> "3.9E7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> <http://oaei.ontologymatching.org/2010/IIMBTBOX/spoken_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/tuvalu> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/indiana_pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/freddie_bauer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/daliah_lavi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnqmb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cuba> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/havana> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/pvt_elmo_blum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/alan_abernathy> <http://oaei.ontologymatching.org/2010/IIMBTBOX/acted_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/gregory_smith> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/nassau> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Nassau"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/south_bronx> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "South Bronx"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shenandoah_1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Family> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/charley_chase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spartacus_1960> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/jean_simmons> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/the_bahamas> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/nassau> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jon_heder> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/fort_collins> .
+<http://www.instancematching.org/IIMB2010/ADDONS#has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ndjamena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Capital> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/seven_brides_for_seven_brothers> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/stanley_donen> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/petersburg> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Petersburg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ottawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Capital> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/honolulu> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Honolulu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/bill_pullman> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/hornell> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/alec_guinness> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1914-04-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/berkeley_california> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "45.8427895529"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cyrus_miles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shaolin_soccer> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/standard_cantonese> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/dewey_finn> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Dewey Finn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/zoe_washburne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/schtonk> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/german_language> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ricardo_montalban> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1920-11-25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/erwin_connelly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/moldova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/julia_foster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/dwight_mccarthy> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Dwight McCarthy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/vicky_jenson> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/justin_henry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/owen_wilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/billy_dee_williams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnpgb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/roy_dotrice> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1923-05-26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spartacus_1960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Adventure> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/vatican_city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cuyahoga_falls> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Cuyahoga Falls"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/the_gambia> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/banjul> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/01z0vs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/windsor_ontario> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "120.693445942"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jerry_reed> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1937-03-20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kari_wahlgren> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Kari Wahlgren"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3rs6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/alfred_molina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/benicio_del_toro> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ghana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/flushing_queens> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Flushing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/berkeley_california> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/royal_oak> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "30.561859702"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/michelle_yeoh> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Buddhism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0963zm_> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Watts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/worthing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/tobey_maguire> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/santa_monica_california> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/swordsman_ii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Martial_arts> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/fogell> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Fogell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chile> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/santiago_chile> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lotte_lenya> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1898-10-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/queens> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "461.743080311"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/schenectady> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jami_gertz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/tony_roberts_1939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/canada> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Canada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/swordsman_ii> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/brigitte_lin> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ricardo_montalban> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Roman Catholicism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/yasuko_sawaguchi> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sid_and_nancy> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bfw2v3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/pasadena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/seven_samurai> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/minoru_chiaki> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chuck_connors> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ching_siu-tung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Director> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/silver_streak> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/patrick_mcgoohan> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/angelina_jolie> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1975-06-04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/comoros> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Federal republic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/mark_hamill> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Mark Hamill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cleveland_ohio> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Cleveland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/minoru_chiaki> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1917-07-30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/addis_ababa> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Addis Ababa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/roy_dotrice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/olgierd_lukaszewicz> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/directs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3lc9> <http://oaei.ontologymatching.org/2010/IIMBTBOX/amount> "2.1E7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/seven_samurai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Historical_drama> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jamaica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/snatch> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/alan_ford> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/stripes> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/john_larroquette> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/switzerland> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Switzerland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> <http://oaei.ontologymatching.org/2010/IIMBTBOX/spoken_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/turks_and_caicos_islands> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/robert_patrick> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/minneapolis> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Minneapolis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/brooklyn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/william_holden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cantonese> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Cantonese"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/john_landis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/malta> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/valletta> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/andorra_la_vella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Capital> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/charlotte_rampling> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/sturmer_united_kingdom> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/belize> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Belize"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/richard_linklater> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Richard Linklater"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/andrew_adamson> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Horror> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/andrew_adamson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Director> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/honduras> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Presidential system"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/joe_keaton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/smokey_and_the_bandit> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/mike_henry> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sylvia_sidney> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Sylvia Sidney"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spider-man_3> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/sam_raimi> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/florence_desmond> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/london> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shanghai_knights> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnpfl1> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/098f624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bfw2xf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jackie_searl> <http://oaei.ontologymatching.org/2010/IIMBTBOX/article> "<p>Jackie Searl (John E. Searl) (July 7, 1921 - 29 April 1991) was a U.S. child actor who began performing on a local Los Angeles radio at the age of 3. His first movie role was in Daughters of Desire (1929) followed by Tom Sawyer (1930) with Jackie Coogan and Mitzi Green, and followed by Huckleberry Finn in 1931.\nSearl was especially known for playing bratty kids, and often had only"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/uttum_east_frisia_germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/simon_simon_1970> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/aaron_johnson_1990> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Aaron Johnson"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/west_bromwich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/satanic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Horror> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/marylebone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/martin_brest> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/the_bronx> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/memphis_tennessee> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "812.738269023"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/vatican_city> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Vatican City"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chorzow> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Chorz\u00F3w"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/star_trek_ii_the_wrath_of_khan> <http://oaei.ontologymatching.org/2010/IIMBTBOX/estimated_budget_used> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3qkl> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spencers_mountain> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/alan_ladd> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1913-09-03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Zombie> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jerusalem> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Jerusalem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/mexico> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Federal republic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/james_stewart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/daphne_zuniga> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/berkeley_california> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/montgomery_scott> <http://oaei.ontologymatching.org/2010/IIMBTBOX/acted_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/james_doohan> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/nancy_callahan> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Nancy Callahan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/gates_mcfadden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/christopher_lee> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/belgravia> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/star_trek_first_contact> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/jean-luc_picard> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jerry_levine> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1957-03-12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/english> <http://oaei.ontologymatching.org/2010/IIMBTBOX/spoken_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/vanuatu> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shrek_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Costume_drama> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lilli_palmer> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Judaism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/star_trek_vi_the_undiscovered_country> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/iman_abdulmajid> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Libraries_and_librarians> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/the_operative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/scrooged> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/richard_donner> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/02nwmmf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ned_beatty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/silent_hill_2006> <http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/japanese> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/marshall_islands> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Representative democracy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cliff_curtis> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1968-07-27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/marshall_islands> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Republic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3qs5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/alex_hughes> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Alex Hughes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chris_odonnell> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Roman Catholicism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/star_wars_episode_iii_revenge_of_the_sith> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/kenny_baker> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/hollywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/scary_movie> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/cindy_campbell> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spies_like_us> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/steve_forrest> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lynwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jason_statham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/peter_boyle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/gotz_george> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/silverado> <http://oaei.ontologymatching.org/2010/IIMBTBOX/estimated_budget_used> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k39kc> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jerry_reed> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/atlanta> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/searle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/togo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shaun_of_the_dead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Romantic_comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/territory_of_new_guinea> <http://oaei.ontologymatching.org/2010/IIMBTBOX/article> "<p>[[Category:League of Nations mandates|New Guinea, BritishAustralia]]\nTerritory of New Guinea was the name given to the Australia-controlled, League of Nations-mandated territory in the north eastern part of the island of New Guinea, and surrounding islands, between 1920 and 1949. The south-eastern part of the island of New Guinea was a separate Australian colony, the Territory of Papua, until 1949.\nThe Australian mandate was based on the previous German New Guinea,"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/south_georgia_and_the_south_sandwich_islands> <http://oaei.ontologymatching.org/2010/IIMBTBOX/currency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sigourney_weaver> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Sigourney Weaver"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Gangster> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bthgtc> <http://oaei.ontologymatching.org/2010/IIMBTBOX/acted_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/trey_parker> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jack_black> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Jack Black"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/tanzania> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/dodoma> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/alan_j_pakula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Director> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/malaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lord_wessex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/uruguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/star_wars_episode_iv_a_new_hope> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/princess_leia_organa> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/rotorua> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "2614.9"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Erotica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/phil_hartman> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Phil Hartman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jeffrey_combs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/scary_movie> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/marlon_wayans> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bfw2v3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/simon_pegg> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1970-02-14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/angelina_jolie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sons_of_the_desert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ivan_reitman> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Judaism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/foster_kane> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/demi_moore> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1962-11-11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/maggie_gyllenhaal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/french> <http://oaei.ontologymatching.org/2010/IIMBTBOX/dialect> "Canadian French"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/calgary_alberta> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "726.5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/philip_seymour_hoffman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sleepless_in_seattle> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/meg_ryan> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lynne_griffin> <http://oaei.ontologymatching.org/2010/IIMBTBOX/article> "<p>Lynne Griffin (born 17 September 1952) is a Canadian actress. She is known for her work in film, television and stage.\nGriffin was born in Toronto, Ontario, the"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Thriller> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Film> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/hong_kong> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Hong Kong"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lord_wessex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kirk_douglas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/philippines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/dakar> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Dakar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/the_bronx> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "148.743017177"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spartacus_1960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Costume_drama> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/john_hughes> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1950-02-18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shark_tale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/james_doohan> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Roman Catholicism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/montgomery_scott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/hiroshi_watanabe> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Hiroshi Watanabe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shakespeare_in_love> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/judi_dench> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shia_labeouf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1986-06-11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/satanic> <http://oaei.ontologymatching.org/2010/IIMBTBOX/shot_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/united_states> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/swimming_with_sharks> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/roy_dotrice> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/brad_pitt> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Atheism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/freddie_prinze_jr> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1976-03-08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/chad> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Dictatorship"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shaolin_soccer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/saved> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnlpr3> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spanish> <http://oaei.ontologymatching.org/2010/IIMBTBOX/spoken_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/uruguay> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/02nwmwr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cameron_diaz> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/san_diego> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/clive_owen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/north_korea> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Communist state"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/super_size_me> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/morgan_spurlock> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/gregory_smith> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/toronto> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/stan_lee> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Judaism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bfw2v3> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Mauricio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lord_farquaad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/leonard_nimoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Director> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k3qtz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Budget> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/james_stewart> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1908-05-20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/spanish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Language> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cyrus_miles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/saved> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/m/0bnlpqm> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/maurice_denham> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Maurice Denham"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/gates_mcfadden> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Gates McFadden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kathi_seldon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/0k2_4n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Budget> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/uruguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/central_african_republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/catherine_mccormack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/erwin_connelly> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Erwin Connelly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/british_english> <http://oaei.ontologymatching.org/2010/IIMBTBOX/spoken_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/wales> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/republic_of_the_congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/traverse_city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://oaei.ontologymatching.org/2010/IIMBTBOX/featuring> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/seven_swords> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/nikolai_grinko> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/kherson> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/schtonk> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/gotz_george> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/silverado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Comedy> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/roseville> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Roseville"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/nauru> <http://oaei.ontologymatching.org/2010/IIMBTBOX/currency> "AUD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/england> <http://oaei.ontologymatching.org/2010/IIMBTBOX/currency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/william_shatner> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "William Shatner"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/conrad_vernon> <http://oaei.ontologymatching.org/2010/IIMBTBOX/article> "<p>Conrad Vernon IV (born July 11, 1968) is an American director, writer, and voice actor, best known for his works on the DreamWorks animated films on Shrek and Shark Tale.\nVernon, a native of Lubbock, Texas, studied at Cal Arts, and worked as a storyboard artist on Ralph Bakshi's Cool World, 2 Stupid Dogs, and Rocko's Modern Life, Morto the Magician, and Shrek; additionally, he directed Shrek 2.\nHe also worked in the same capacity on Antz. After Antz proved a success"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ben_affleck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/brenda_fricker> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/zooey_deschanel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/elizabeth_mcgovern> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/smokey_and_the_bandit> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/jerry_reed> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sarah_silverman> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1970-12-01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/charles_laughton> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/scarborough> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/cliff_curtis> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/rotorua> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/mp_louise_cooper> <http://oaei.ontologymatching.org/2010/IIMBTBOX/acted_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/sean_young> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/gwyneth_paltrow> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/mexico> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Presidential system"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/bill_hader> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Bill Hader"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/seth_green> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Seth Green"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/slc_punk> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/summer_phoenix> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/Budget> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/swordsman_ii> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/ching_siu-tung> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/morristown_united_states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Location> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sealand> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/sealand> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/south_park_bigger_longer_uncut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Musical> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/polish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Language> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/05ysx6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ruzomberok> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "126.72"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/lansing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/madagascar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/nigeria> <http://oaei.ontologymatching.org/2010/IIMBTBOX/form_of_government> "Presidential system"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/steve_forrest> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/huntsville_texas> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ukraine> <http://oaei.ontologymatching.org/2010/IIMBTBOX/has_capital> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/kiev> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/splash> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/freddie_bauer> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/glendale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/swordsman_ii> <http://oaei.ontologymatching.org/2010/IIMBTBOX/directed_by> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/stanley_tong> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/danny_boyle> <http://oaei.ontologymatching.org/2010/IIMBTBOX/religion> "Roman Catholicism"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/hoisington> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "3.1079857324"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBTBOX/filmed_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/beijing> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "16801.25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sean_faris> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1982-03-25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kita_tokyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/syracuse_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/harold_ramis> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Harold Ramis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/sally_field> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Sally Field"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/mp_louise_cooper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/rachael_leigh_cook> <http://oaei.ontologymatching.org/2010/IIMBTBOX/date_of_birth> "1979-10-04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/bobby_farrelly> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Bobby Farrelly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/namibia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Country> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/richard_fleischer> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Richard Fleischer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/jane_powell> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/la_jolla> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "La Jolla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kagoshima_prefecture> <http://oaei.ontologymatching.org/2010/IIMBTBOX/size> "9132.42"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/super_bad> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/officer_slater> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/m/02nwmwj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Character> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/joan_crawford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/ricardo_montalban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/shrek_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Animation> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/silent_hill_2006> <http://oaei.ontologymatching.org/2010/IIMBTBOX/starring_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/laurie_holden> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/george_takei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://oaei.ontologymatching.org/2010/IIMBTBOX/Actor> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/rick_moranis> <http://oaei.ontologymatching.org/2010/IIMBTBOX/name> "Rick Moranis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/tony_roberts_1939> <http://oaei.ontologymatching.org/2010/IIMBTBOX/born_in> <http://oaei.ontologymatching.org/2010/IIMBDATA/en/new_york> .
+<http://oaei.ontologymatching.org/2010/IIMBDATA/en/kirk_douglas> <http://oaei.ontologymatching.org/2010/IIMBTBOX/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> .
